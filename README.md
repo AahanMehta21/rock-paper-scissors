@@ -1,2 +1,4 @@
-# rock-paper-scissors
-Simple rock paper scissors game against computer
+# Rock Paper Scissors
+This simple website lets a user play the classic game rock paper scissors against the computer.
+It is written in HTML and Javascript. GUI will be added soon.
+

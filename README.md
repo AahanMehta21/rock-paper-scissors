@@ -3,3 +3,5 @@ This simple website lets a user play the classic game rock paper scissors agains
 It is written in HTML and Javascript. GUI will be added soon.
 
 To play, open chrome dev tools, go to console, and type "playGame()" and hit enter.
+
+## [Link to Webpage](https://aahanmehta21.github.io/rock-paper-scissors/)
